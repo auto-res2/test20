@@ -144,3 +144,6 @@ if __name__ == '__main__':
     
     
     print("All experiments finished successfully.")
+    
+    status_enum = "stopped"
+    print(f"Status: {status_enum}")
